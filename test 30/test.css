@@ -1,0 +1,21 @@
+
+.back{
+    background-color: white;
+    display: flex;
+    margin-left: 590px;
+    margin-top: 380px;
+    
+    
+}
+button{
+    border-radius: 30px;
+    width: 70px;
+    height: 40px;
+    gap: 30px;
+    cursor: pointer;
+    
+
+}
+
+
+
